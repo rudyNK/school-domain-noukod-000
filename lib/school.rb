@@ -20,7 +20,7 @@ class School
         return y
       end
     end
-  end 
+  end
 
   school = School.new("Bayside High School")
 school.roster
